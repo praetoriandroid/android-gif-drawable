@@ -1,5 +1,5 @@
 APP_ABI := armeabi-v7a
-APP_PLATFORM := android-21
+APP_PLATFORM := android-15
 
 ifeq ($(NDK_DEBUG),1)
 	APP_OPTIM := debug
